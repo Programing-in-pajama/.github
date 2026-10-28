@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Programing-in-pajama/.github/main/profile/soyo-official-logo.png" width="300" alt="소요(SOYO) 로고" />
   <br/><br/>
   <h1>소요 (SOYO)</h1>
-  <p><b>가톨릭대학교 컴퓨터공학전공 2026 학술제 | 팀 PIP (Programming in Pajama)</b></p>
+  <p><b>가톨릭대학교 컴퓨터정보공학전공 2026 학술제 | 팀 PIP (Programming in Pajama)</b></p>
   <p>맞춤형 식이 & 산책 코스 추천 웰니스 서비스</p>
 </div>
 
